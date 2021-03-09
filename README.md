@@ -4,7 +4,9 @@ This repo would be used to store all public releases of my LineageOS builds (ROM
 
 ## Tags
 
-ROM builds will be tagged with ```ROM-{DATE}```
+ROM builds (International version ex. G770F) will be tagged with ```ROM-{DATE}```
+
+ROM builds (USA version ex. G770U1) will be tagged with ```ROM-USA-{DATE}```
 
 Recovery builds will be tagged with ```Recovery-{DATE}```
 
