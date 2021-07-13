@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1619255607",
-      "filename": "lineage-18.1-20210424-UNOFFICIAL-r5q.zip",
-      "id": "b792b72111dd74770523666b362dd8363dda5be75b415a532ca03d82b7be0b6c",
+      "datetime": "1626156168",
+      "filename": "lineage-18.1-20210713-UNOFFICIAL-r5q.zip",
+      "id": "9d2d53fc61ed9fcc1381419ca324adf75480a987a8aa1ed2df8f96fd5b925237",
       "romtype": "UNOFFICIAL",
-      "size": "1152171368",
-      "url": "https://github.com/mainey/r5q-archive/releases/download/ROM-20210424/lineage-18.1-20210424-UNOFFICIAL-r5q.zip",
+      "size": "641898607",
+      "url": "https://github.com/mainey/r5q-archive/releases/download/ROM-20210713/lineage-18.1-20210713-UNOFFICIAL-r5q.zip",
       "version": "18.1"
     }
   ]
